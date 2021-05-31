@@ -1,0 +1,57 @@
+body {
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+#topNav {
+    box-shadow: 0px 2px 6px 0px rgba(0,0,0,0.75);
+}
+
+#iconImg {
+    height: 100px;
+}
+
+#essentialImg , #trainerImg, #groupImg , #cleanImg {
+    height: 400px;
+    width: 400px;
+}
+
+#mapsImg {
+    width: 100%;
+    box-shadow: 0px 0px 4px 0px rgba(0,0,0,1);
+}
+
+.carousel-caption {
+    background-color: rgb(0, 0, 0, 0.4);
+}
+
+.carousel-caption h3 , .carousel-caption p {
+    color: rgb(255, 136, 0);
+}
+
+.aboutUsBox {
+    border-top: solid rgb(0, 0, 0, 0.1);
+}
+
+.membershipBox {
+    box-shadow: 0px 0px 2px 0px;
+}
+
+.tableImg {
+    height:20px;
+}
+
+.calendarBox {
+    box-shadow: 0px 0px 3px 0px;
+}
+
+.footerImg {
+    height: 30px;
+}
+
+/* Maps css */
+iframe {
+    height: 600px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 0px;
+}
